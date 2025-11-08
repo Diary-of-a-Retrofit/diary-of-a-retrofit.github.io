@@ -1,5 +1,5 @@
-[docs]
+[book]
 authors = []
 language = "en"
-src = "docs/src"
+src = "src"
 title = "Diary of a Retrofit"
